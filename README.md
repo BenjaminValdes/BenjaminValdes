@@ -19,12 +19,13 @@
 
 > Chemical engineer turned AI software engineer. ~8 years in industrial operations (production management and continuous improvement, leading a team of ~70) plus 3+ years building software. I design AI systems where **the model interprets and the code controls**: business rules, validation and permissions stay deterministic, so agents are safe to run in production.
 
-## What I work on
+## What I've worked on
 
 - **AI operational assistant on WhatsApp** — Natural-language assistant for a poultry company to query, validate and create farm records. The LLM produces structured intents; application code handles schema validation, business rules, permissions and controlled PostgreSQL writes. Cut administrative workload by about half (≈ one FTE). *(LLMs · tool calling · Python · PostgreSQL)*
 - **AI-assisted tender management platform** — Led architecture and development end to end for a regional accounting firm: AI document processing, centralized data and automated workflows. ~35% less workload for a 3-person admin team; became the client's primary tender system. *(Next.js · TypeScript · PostgreSQL)*
 - **Subscription lifecycle automation** — Activations, cancellations, validation, error tracking and customer emails running on their own. Up to ~70% less manual effort. *(n8n · webhooks · Gmail API · PostgreSQL)*
-- **Linceo** `in progress` — Fraud detection platform for healthcare payers in Argentina: rule-based signals, anomaly detection, risk scoring and auditable investigation workflows, privacy-first. *(Python · SQL · Next.js)*
+- **Table tennis tournament platform** — Full-stack platform built for a table tennis club and running in production: public player registration, categories and rankings, group stages, results, standings and knockout brackets, with tournament formats generated automatically from the number of players. *(Next.js · TypeScript · PostgreSQL · Prisma · Supabase · Tailwind · Vercel)*
+- **Fraud Prevention Software** `in progress` — Fraud detection platform: rule-based signals, anomaly detection, risk scoring and auditable investigation workflows, privacy-first. *(Python · SQL · Next.js)*
 
 ## How I work
 
@@ -32,6 +33,6 @@ Problem → process → solution → impact. I start from the business bottlenec
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-benjaminvaldes91-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminvaldes91/)
+[![LinkedIn](https://img.shields.io/badge/-benjaminvaldes91-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/benjaminvaldes91/)
 [![Email](https://img.shields.io/badge/-valdesbenjamin91@gmail.com-0B2545?style=flat-square&logo=gmail&logoColor=white)](mailto:valdesbenjamin91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1D4ED8?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://benjamin-valdes-portfolio.vercel.app/)
